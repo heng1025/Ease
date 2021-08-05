@@ -14,6 +14,10 @@
     --font-base: roboto, sans-serif;
     --animation-base: ease-in-out;
     --navbar-height: 70px;
+    --color-darkgrey: #15171a;
+    --color-midgrey: #738a94;
+    --color-lightgrey: #c5d2d9;
+    --color-wash: #e5eff5;
 }
 
 html {
@@ -148,7 +152,14 @@ figcaption {
 }
 
 pre {
-    overflow-x: scroll;
+    overflow: auto;
+    padding: 16px 20px;
+    color: var(--color-wash);
+    font-size: 1.4rem;
+    line-height: 1.5em;
+    background: var(--color-darkgrey);
+    border-radius: 5px;
+    box-shadow: 0 2px 6px -2px rgb(0 0 0 / 10%), 0 0 1px rgb(0 0 0 / 40%);
 }
 
 code {
