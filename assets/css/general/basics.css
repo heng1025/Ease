@@ -156,14 +156,26 @@ pre {
     padding: 16px 20px;
     color: var(--color-wash);
     font-size: 1.4rem;
-    line-height: 1.5em;
+    line-height: 1em;
     background: var(--color-darkgrey);
     border-radius: 5px;
     box-shadow: 0 2px 6px -2px rgb(0 0 0 / 10%), 0 0 1px rgb(0 0 0 / 40%);
 }
 
 code {
-    font-size: 14px;
+    font-size: 15px;
+}
+
+:not(pre)>code {
+    vertical-align: middle;
+    padding: .15em .4em;
+    border: 1px solid #e1eaef;
+    font-weight: 400!important;
+    font-size: 1em;
+    line-height: 1em;
+    color: #15171a;
+    background: #f0f6f9;
+    border-radius: .25em;
 }
 
 hr {

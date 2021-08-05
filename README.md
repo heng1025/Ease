@@ -2,7 +2,8 @@
 
 A versatile theme suitable for documentation. Publish your posts or business information with ease. Completely free and fully responsive, released under the MIT license.
 
-**Demo: https://chenggang.win**
+- **Demo1: https://chenggang.win**
+- **Demo2: https://ease.ghost.io**
 
 &nbsp;
 
