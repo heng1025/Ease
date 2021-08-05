@@ -1,17 +1,17 @@
 {
     "name": "ease",
     "description": "A Ghost theme",
-    "version": "1.0.0",
+    "version": "2.2.0",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
     },
     "license": "MIT",
-        "author": {
-            "name": "Ghost Foundation",
-            "email": "hello@ghost.org",
-            "url": "https://ghost.org"
-        },
+    "author": {
+        "name": "Ghost Foundation",
+        "email": "hello@ghost.org",
+        "url": "https://ghost.org"
+    },
     "keywords": [
         "ghost",
         "theme",

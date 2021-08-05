@@ -2,7 +2,7 @@
 
 A versatile theme suitable for documentation. Publish your posts or business information with ease. Completely free and fully responsive, released under the MIT license.
 
-**Demo: https://ease.ghost.io**
+**Demo: https://chenggang.win**
 
 &nbsp;
 
@@ -19,7 +19,7 @@ A versatile theme suitable for documentation. Publish your posts or business inf
 ```html
 <script>
     var gh_search_key = 'API_KEY';
-    var gh_search_migration = 'v1';
+    var gh_search_migration = 'v4';
 </script>
 ```
 
